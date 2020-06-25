@@ -1,0 +1,40 @@
+header {
+    background-color: rgba(88, 192, 157, 0.63);
+    border-width: 2px;
+    border-style: solid;
+    border-color :black;
+    }
+    footer {
+    background-color: rgba(88, 192, 157, 0.63);
+    border-width: 2px;
+    border-style: solid;
+    border-color:black;
+    }
+    nav {
+    background-color: white;
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color :black;
+    }
+    main {
+    background-color:rgb(167, 167, 167);
+    border-width: 2px;
+    border-style: solid;
+    border-color :black;
+    display: block;
+    padding-top: 20px;
+    }
+     
+    h1 {
+    margin-left: 230px;
+    }
+    section.global {
+    background-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color :black;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
